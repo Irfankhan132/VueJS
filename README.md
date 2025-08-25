@@ -1,3 +1,5 @@
+This is just for learning purpose
+
 # blog
 
 ## Project setup
